@@ -1,0 +1,19 @@
+.number{
+    display: block;
+    position: relative;
+    box-shadow: 0px;
+    padding-right: 10px;
+    
+}
+h1{
+    font-family:initial;
+    font-size: bold;
+    font-weight: 100;
+    text-align: center;
+}
+p{
+    font-style: oblique;
+    text-shadow: ivory;
+
+
+}
