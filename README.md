@@ -18,4 +18,4 @@ Records support openness and transparency by documenting and providing evidence 
 ## Support and contact details
 * Email: ellyoketch34@gmail.com
 
-Copyright (c) [LICENSE] MIT **Elly Oketch** 
+Copyright (c) [![LICENSE](https://github.com/ellyoketch/my-favorite-band-project) MIT **Elly Oketch** 
