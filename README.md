@@ -18,4 +18,4 @@ Records support openness and transparency by documenting and providing evidence 
 ## Support and contact details
 * Email: ellyoketch34@gmail.com
 
-Copyright (c) MIT **Elly Oketch** 
+Copyright (c) [MIT] **Elly Oketch** 
